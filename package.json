@@ -1,0 +1,26 @@
+{
+  "name": "roh-dev",
+  "version": "1.0.0",
+  "description": "A personal site hosted on GitHub pages as a basic portfolio for myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohan-fowlerharper/roh-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohan-fowlerharper/roh-dev/issues"
+  },
+  "homepage": "https://github.com/rohan-fowlerharper/roh-dev#readme",
+  "dependencies": {
+    "@chakra-ui/react": "^1.6.12",
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "framer-motion": "^4.1.17"
+  }
+}
